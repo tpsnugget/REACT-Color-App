@@ -28,4 +28,7 @@
    import {CopyToClipboard} from "react-copy-to-clipboard"
 
 # 178: Copy Overlay Animation
-   
+
+# 179: Generating Shades of Colors
+   npm i --save chroma-js
+   import chroma from "chroma-js"
