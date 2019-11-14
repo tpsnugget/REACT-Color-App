@@ -22,4 +22,7 @@
    new file ColorBox.js, ColorBox.css, Palette.css
 
 # 176: Styling Color Box
-   
+
+# 177: Copying to Clipboard
+   npm i --save react-copy-to-clipboard
+   import {CopyToClipboard} from "react-copy-to-clipboard"
