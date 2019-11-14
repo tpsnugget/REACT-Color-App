@@ -18,5 +18,8 @@
    copied seedColors.js from github to src
    new file Palette.js
 
-   # 175: Color Box Basics
+# 175: Color Box Basics
    new file ColorBox.js, ColorBox.css, Palette.css
+
+# 176: Styling Color Box
+   
