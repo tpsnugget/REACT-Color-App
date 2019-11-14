@@ -12,4 +12,8 @@
    react-form-validator-core
    react-transition-group
    JSS
-   
+
+# 174: Creatiing the Palette Component
+   npx create-react-app colors-app
+   copied seedColors.js from github to src
+   new file Palette.js
