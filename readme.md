@@ -32,3 +32,12 @@
 # 179: Generating Shades of Colors
    npm i --save chroma-js
    import chroma from "chroma-js"
+
+# 180: Adding Color Slider
+   npm i --save rc-slider
+   in Palette.js (will eventually move to navbar)
+      import Slider from "rc-slider"
+      import "rc-slider/assets/index.css"
+      <Slider />
+      Added a constructor to use state to keep track of values for the slider
+      
