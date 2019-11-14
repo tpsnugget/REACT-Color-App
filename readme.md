@@ -40,4 +40,5 @@
       import "rc-slider/assets/index.css"
       <Slider />
       Added a constructor to use state to keep track of values for the slider
-      
+
+# 181: Styling the Color Slider
