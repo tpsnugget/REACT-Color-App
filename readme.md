@@ -26,3 +26,6 @@
 # 177: Copying to Clipboard
    npm i --save react-copy-to-clipboard
    import {CopyToClipboard} from "react-copy-to-clipboard"
+
+# 178: Copy Overlay Animation
+   
