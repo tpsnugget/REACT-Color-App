@@ -17,3 +17,6 @@
    npx create-react-app colors-app
    copied seedColors.js from github to src
    new file Palette.js
+
+   # 175: Color Box Basics
+   new file ColorBox.js, ColorBox.css, Palette.css
