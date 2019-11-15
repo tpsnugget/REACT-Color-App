@@ -74,3 +74,5 @@
    Added MiniPalette.js, import { withStyles } from '@material-ui/core/styles'
 
 # 190: Styling MiniPalette with JSS
+
+# 191: Styling PaletteList with JSS
