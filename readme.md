@@ -44,3 +44,7 @@
 # 181: Styling the Color Slider
 
 # 182: Adding Navbar Component
+
+# Section 25: The Massive Color Project Part 2
+# 183: Intro to Material UI and Adding Select
+   npm i --save @material-ui/core
