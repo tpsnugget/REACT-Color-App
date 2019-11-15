@@ -72,3 +72,5 @@
 # 189: Introducting withStyles HOC
    npm i --save @material-ui/styles
    Added MiniPalette.js, import { withStyles } from '@material-ui/core/styles'
+
+# 190: Styling MiniPalette with JSS
