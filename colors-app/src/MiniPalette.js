@@ -2,24 +2,45 @@ import React from "react"
 import { withStyles } from '@material-ui/core/styles';
 
 const styles = {
-   main: {
-      backgroundColor: "purple",
-      border: "3px solid teal",
-      "& h1": {
-         color: "white"
+   root: {
+      backgroundColor: "white",
+      border: "1px solid black",
+      borderRadius: "5px",
+      padding: "0.5rem",
+      position: "relative",
+      overflow: "hidden",
+      "&:hover": {
+         cursor: "pointer"
       }
    },
-   secondary: {
-      backgroundColor: "pink"
+   colors: {
+      backgroundColor: "gray",
+
+   },
+   title: {
+      display: "flex",
+      justifyContent: "space-between",
+      alignItems: "center",
+      margin: "0",
+      color: "black",
+      paddingTop: "0.5rem",
+      fontSize: "rem",
+      position: "relative"
+   },
+   emoji: {
+      marginLeft: "0.5rem",
+      fontSize: "1.5rem"
    }
 }
 
 function MiniPalette(props){
-   const {classes} = props
+   const { classes, paletteName, emoji } = props
    return(
-      <div className={classes.main}>
-         <h1>MiniPalette</h1>
-         <section className={classes.secondary}>dsflfsd</section>
+      <div className={classes.root}>
+         <di className={classes.colors}>
+
+         </di>
+         <div className={classes.title}>{paletteName} <span className={classes.emoji}>{emoji}</span> </div>
       </div>
    )
 }
