@@ -63,3 +63,7 @@
 
 # 187: Finding Palettes
    Added findPalette() to App.js
+
+# 188: PaletteList and Links
+   Working on the homepage
+   Added PaletteList.js and .css
