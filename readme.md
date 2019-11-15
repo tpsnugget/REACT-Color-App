@@ -67,3 +67,8 @@
 # 188: PaletteList and Links
    Working on the homepage
    Added PaletteList.js and .css
+
+# Section 26: JSS & withStyles (Color App)
+# 189: Introducting withStyles HOC
+   npm i --save @material-ui/styles
+   Added MiniPalette.js, import { withStyles } from '@material-ui/core/styles'
