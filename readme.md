@@ -54,3 +54,6 @@
    npm i --save @material-ui/icons
    import Snackbar from '@material-ui/core/Snackbar';
    import CloseIcon from '@material-ui/icons/Close';
+
+# 185: Add Palette Footer
+   Added key to each Colorbox being rendered in Palette
