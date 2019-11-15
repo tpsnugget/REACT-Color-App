@@ -57,3 +57,9 @@
 
 # 185: Add Palette Footer
    Added key to each Colorbox being rendered in Palette
+
+# 186: Integrating React Router
+   npm i --save react-router-dom
+
+# 187: Finding Palettes
+   Added findPalette() to App.js
