@@ -76,3 +76,8 @@
 # 190: Styling MiniPalette with JSS
 
 # 191: Styling PaletteList with JSS
+
+# 192: Finishing Up MiniPalette
+
+# Section 27: The Massive Color Project Part 3
+# 193: Linking To Palettes
