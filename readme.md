@@ -76,3 +76,5 @@
 # 190: Styling MiniPalette with JSS
 
 # 191: Styling PaletteList with JSS
+
+# 192: Finishing Up MiniPalette
