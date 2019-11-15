@@ -60,3 +60,6 @@
 
 # 186: Integrating React Router
    npm i --save react-router-dom
+
+# 187: Finding Palettes
+   Added findPalette() to App.js
