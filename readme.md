@@ -81,3 +81,7 @@
 
 # Section 27: The Massive Color Project Part 3
 # 193: Linking To Palettes
+
+# 194: Brainstorming Single Color Palette
+
+# 195: Adding More Links
