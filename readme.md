@@ -85,3 +85,5 @@
 # 194: Brainstorming Single Color Palette
 
 # 195: Adding More Links
+
+# 196: Creating Single Color Palette
