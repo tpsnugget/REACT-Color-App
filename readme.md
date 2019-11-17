@@ -87,3 +87,6 @@
 # 195: Adding More Links
 
 # 196: Creating Single Color Palette
+
+# 197: Displaying Shades in Single Color Palette
+
