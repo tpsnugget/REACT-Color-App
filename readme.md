@@ -96,3 +96,6 @@
 
 # 200: Dynamic Text Color w/Luminosity
    chroma.js, used luminance()
+
+# 201: Refactoring More Styles
+
