@@ -90,3 +90,5 @@
 
 # 197: Displaying Shades in Single Color Palette
 
+# 198: Adding Navbar and Footer
+
