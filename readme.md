@@ -92,3 +92,7 @@
 
 # 198: Adding Navbar and Footer
 
+# 199: Add Go Back Box
+
+# 200: Dynamic Text Color w/Luminosity
+   chroma.js, used luminance()
