@@ -119,3 +119,6 @@
    npm i --save react-color
 
 # 210: Connecting Color Picker to Button
+
+# 211: Creating Draggable Color Box
+
