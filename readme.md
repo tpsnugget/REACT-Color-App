@@ -115,3 +115,5 @@
 # 208: Adding Slide-Out Drawer
    from Material-ui
 
+# 209: Adding Color Picker Component
+   npm i --save react-color
