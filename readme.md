@@ -101,3 +101,6 @@
 
 # 202: Finish Refactoring Color Box
 
+# Section 28: The Massive Color Project Part 4
+# 203: Refactor Palette Styles
+
