@@ -104,3 +104,5 @@
 # Section 28: The Massive Color Project Part 4
 # 203: Refactor Palette Styles
 
+# 204: Move Styles Into New Folder
+
