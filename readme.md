@@ -128,3 +128,5 @@
 # Section 29: The Massive Color Project Part 5
 # 213: Saving New Palettes
 
+# 214: Add Palette Name Form
+
