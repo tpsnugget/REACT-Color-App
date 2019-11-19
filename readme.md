@@ -108,3 +108,7 @@
 
 # 205: Refactor Navbar CSS
 
+# 206: Overview of PaletteForm
+
+# 207: Adding NewPalette Form
+
