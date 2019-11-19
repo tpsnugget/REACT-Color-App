@@ -106,3 +106,5 @@
 
 # 204: Move Styles Into New Folder
 
+# 205: Refactor Navbar CSS
+
