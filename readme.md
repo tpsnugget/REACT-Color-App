@@ -112,3 +112,6 @@
 
 # 207: Adding NewPalette Form
 
+# 208: Adding Slide-Out Drawer
+   from Material-ui
+
