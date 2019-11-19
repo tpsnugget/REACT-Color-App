@@ -130,3 +130,5 @@
 
 # 214: Add Palette Name Form
 
+# 215: Styling Draggable Color Box
+
