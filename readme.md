@@ -124,3 +124,7 @@
 
 # 212: Introducing Form Validator
    npm i --save react-material-ui-form-validator
+
+# Section 29: The Massive Color Project Part 5
+# 213: Saving New Palettes
+
