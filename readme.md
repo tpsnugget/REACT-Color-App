@@ -150,3 +150,5 @@
 
 # 224: Styling Dialog
 
+# 225: Closiing Form & Adding Emoji
+   npm i --save emoji-mart
