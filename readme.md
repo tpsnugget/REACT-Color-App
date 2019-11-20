@@ -136,3 +136,6 @@
 
 # 217: It's Drag and Drop Time!
    npm i --save react-sortable-hoc
+
+# 218: Clear Palette and Random Color Buttons
+
