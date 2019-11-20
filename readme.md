@@ -145,4 +145,6 @@
 
 # 221: Styling Palette Form Nav
 
-ß
+# Section 30: The Massive Color Project Part 6
+# 223: Adding Modals/Dialogs
+
