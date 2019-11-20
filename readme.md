@@ -137,6 +137,7 @@
 # 217: It's Drag and Drop Time!
    npm i --save react-sortable-hoc
 
+# Daily Work
 # 218: Clear Palette and Random Color Buttons
 
 # 219: Extract New Palette Nav
@@ -152,3 +153,6 @@
 
 # 225: Closiing Form & Adding Emoji
    npm i --save emoji-mart
+
+# 226: Finish Emoji Picker Form
+
