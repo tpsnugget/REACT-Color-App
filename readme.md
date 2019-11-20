@@ -134,3 +134,5 @@
 
 # 216: Adding Color Box Delete
 
+# 217: It's Drag and Drop Time!
+   npm i --save react-sortable-hoc
