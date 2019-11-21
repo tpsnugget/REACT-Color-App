@@ -168,3 +168,5 @@
 
 # 232: Create Responsive Sizes Helper
 
+# 233: Make Color box Responsive
+
