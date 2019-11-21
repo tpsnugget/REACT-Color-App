@@ -175,3 +175,5 @@
 # Section 30: The Massive Color Project Part 7
 # 235: Make Palette List Responsive
 
+# 236: Add SVG Background
+   svgbackgrounds.com
