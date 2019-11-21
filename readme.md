@@ -166,3 +166,5 @@
 
 # 231; Finish MiniPalette Delete
 
+# 232: Create Responsive Sizes Helper
+
