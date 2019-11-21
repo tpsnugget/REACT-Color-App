@@ -170,3 +170,8 @@
 
 # 233: Make Color box Responsive
 
+# 234: Make Form & Navbar Responsive
+
+# Section 30: The Massive Color Project Part 7
+# 235: Make Palette List Responsive
+
