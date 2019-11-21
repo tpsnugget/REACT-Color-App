@@ -164,3 +164,5 @@
 
 # 230: Adding MiniPalette Delete Button
 
+# 231; Finish MiniPalette Delete
+
