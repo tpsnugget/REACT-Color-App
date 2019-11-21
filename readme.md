@@ -170,3 +170,4 @@
 
 # 233: Make Color box Responsive
 
+# 234: Make Form & Navbar Responsive
