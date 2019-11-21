@@ -156,3 +156,5 @@
 
 # 226: Finish Emoji Picker Form
 
+# 227: Moving JSS Styles Out
+
