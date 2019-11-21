@@ -162,3 +162,5 @@
 
 # 229: Saving to LocalStorage
 
+# 230: Adding MiniPalette Delete Button
+
