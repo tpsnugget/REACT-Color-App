@@ -177,3 +177,6 @@
 
 # 236: Add SVG Background
    svgbackgrounds.com
+
+# 237: Fade Animations w/Transition Group
+   npm i --save react-transition-group
