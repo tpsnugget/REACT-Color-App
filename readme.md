@@ -189,3 +189,5 @@
 
 # 241: Refactoring Route Transitions
 
+# 242: Optimizing w/PureComponent
+
