@@ -195,3 +195,5 @@
 
 # 244: More Cleaning Up!
 
+#245: Fix Issues w/New Palette Form
+
