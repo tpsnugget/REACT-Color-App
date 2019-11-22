@@ -183,3 +183,5 @@
 
 # 238: Delete Confirmation Dialog
 
+# 239: Fix Delete/Drag Bug
+
